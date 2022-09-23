@@ -1,12 +1,4 @@
-## References [REQUIRED!]
-
-Include all the references to codes, websites, articles, notebooks, GitHub repos, etc. that you've used to build your model here. No specific format for references is required, but at the minimum, you should have a separate numbered row for each reference, and include the URL if it has a web link.
-
-If you borrow any code, you must document and comment each line of the code LINE BY LINE to explain exactly what it's doing. In the cell that contains the borrowed code, you should include (as comment) the reference number listed here.
-
-**Warning**: If you borrow a code without proper citation here, it will be flagged and reported as plaigiarism, and the minimum consequence is ZERO in A5.
-
-Enter your references HERE:
+## References
 
 [1] https://towardsdatascience.com/weight-initialization-for-neural-networks-does-it-matter-e2fd99b3e91f <br>
 
@@ -21,5 +13,3 @@ Enter your references HERE:
 [6] https://github.com/fereydoonvafaei/CMSC478-Spring-2022/blob/main/CNN-S22/CNN-S22.ipynb <br>
 
 [7] https://github.com/fereydoonvafaei/CMSC478-Spring-2022/blob/main/DNN-S22/DNN-S22.ipynb <br>
-
-Note: The only code I copied originally for this part was the base model which was borrowed from the Tensorflow CNN tutorial (reference [1]). After getting a baseline for it's performance for >20 epochs I began adding layers and regularization to the base model and experimenting with different combinations of layers, regularizers, initalizers, learning rates, etc. 
